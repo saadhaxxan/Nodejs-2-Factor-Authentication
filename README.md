@@ -1,7 +1,8 @@
 <div align="center">
-	<h1>Nodejs Speakeasy 2 Factor Authentication<br>
-	<img src="https://speakeasyjs.com/social-share.png">
-	</h1>
+	<h1>Nodejs Speakeasy 2 Factor Authentication</h1>
+    <br>
+    <br>
+	<img src="https://speakeasyjs.com/social-share.png" width="200px>
 </div>
 
 ## 👉 FEATURES
