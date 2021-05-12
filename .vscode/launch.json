@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "p:\\PracticalWebDevelopment\\Nodejs Javascript\\Nodejs-2-Factor-Authentication",
+      "environment": [],
+      "program": "p:\\PracticalWebDevelopment\\Nodejs Javascript\\Nodejs-2-Factor-Authentication\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "D:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": true
+    }
+  ]
+}
