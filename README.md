@@ -14,7 +14,7 @@
 ## INSTALLATION
 
 ```
-git clone https://github.com/saadhaxxan/Nodejs-2-Factor-Authentication
+git clone https://github.com/saadhaxxan/Nodejs-2-Factor-Authentication.git
 cd Nodejs-2-Factor-Authentication
 npm install
 npm start
